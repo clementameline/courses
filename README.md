@@ -30,4 +30,4 @@ Les présentations sont créées avec [MARP](https://marp.app/), un outil permet
 
 © 2025 Clément AMELINE
 
-Ce projet est sous licence [GPL-3.0](LICENSE). Toute utilisation, modification ou distribution doit mentionner l'auteur original.
+Ce projet est sous licence [GPL-3.0](LICENSE.md). Toute utilisation, modification ou distribution doit mentionner l'auteur original.
