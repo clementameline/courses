@@ -10,8 +10,7 @@ ModuleX/
 ├── src/            # Sources MARP
 │   ├── slides.md
 │   └── assets/     # Images et autres ressources
-└── export/         # Exports PDF du cours
-    └── slides.pdf
+└── slides.pdf      # Exports PDF du cours
 ```
 
 ## Utilisation
